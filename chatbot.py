@@ -17,7 +17,7 @@ text_sources = {
     'Garuda': 'https://github.com/SaiSudheerKankanala/SAIbot/raw/main/GarudaPurana.pdf',
     'Bhagavad Gita': 'https://github.com/SaiSudheerKankanala/SAIbot/raw/main/Bhagavad-gita_As_It_Is.pdf',
     'Quran': 'https://github.com/SaiSudheerKankanala/SAIbot/raw/main/quran-allah.pdf',
-    "Bible" : "https://github.com/SaiSudheerKankanala/SAIbot/blob/main/bb.pdf"
+    # "Bible" : "https://github.com/SaiSudheerKankanala/SAIbot/blob/main/bb.pdf"
 }
 
 # ---------------------------
