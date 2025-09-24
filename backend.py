@@ -27,8 +27,7 @@ class Question(BaseModel):
 def ask_question(item: Question):
     answer = chat(item.query)
     return {"answer": answer}
-
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8000))
-    uvicorn.run("backend:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("backend:app", host="0.0.0.0", port=port)
 
